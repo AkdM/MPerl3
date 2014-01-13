@@ -1,5 +1,21 @@
 #MPerl3 - v1.0 ß1
 
+##Intro
+
+MPerl3 is a tool in Perl that allows you to tag your MP3 files : 
+* Track #
+* Title
+* Artist
+* Album
+* Year
+* Genre
+* Cover (jpg)
+
+MPerl3 can also sort the selected musics in their respective folders by copying or moving the tagged MP3, in this format :
+
+`artist/album/track# - title.mp3`
+
+
 ##Dependencies 
 
 To get MPerl3 properly working, you will have to install some dependencies.
