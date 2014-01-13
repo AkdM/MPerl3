@@ -37,7 +37,7 @@ sudo cpan install Time::HiRes
 
 ##Usage
 
-On OS X, simply run perl the script in the Terminal (Applications/Terminal.app)
+On OS X, simply run MPerl3 in the Terminal (Applications/Terminal.app)
 
 ```
 perl MPerl3.pl
