@@ -34,6 +34,15 @@ Type this command to install it (OS X — Make sure you installed the Command Li
 sudo cpan install Time::HiRes
 ```
 
+#####File::Copy:Recursive
+Type this command to install it (OS X — Make sure you installed the Command Line Tools for Xcode)
+
+```
+sudo cpan install File::Copy::Recursive
+```
+
+
+
 
 ##Usage
 
